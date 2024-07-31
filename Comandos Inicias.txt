@@ -1,0 +1,27 @@
+Comando Terminal
+
+- pwd = mostra onde voce esta
+- dir = mostra conteudo da pasta que voce esta
+- cd = entra na pasta que voce indicar
+- touch + nome ddo arquivo = criar um arquivo
+- mkdir + noe do arquivo = cria um diretorio
+
+Comando Git
+
+- git init = transforma a pasta que estou em pasta git
+- git remote origin = cria conexao entre a pasta repositorio
+- git add . = adicinar todos arquivos na pasta
+- git commit = coloca etiqueta no pacote
+- git push = envia o commit para o repostorio
+- git pull = baixar conteudo do reposiorio para o local
+- git status = verifica status dos meus arquivos locais
+
+Comando Vim
+
+- vim + nome do arquivo = abre no vim
+- :wq = sair e salvar
+- :q ou :q! = sair
+
+"
+
+
